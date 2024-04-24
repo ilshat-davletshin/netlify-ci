@@ -26,5 +26,8 @@
     "gulp-plumber": "^1.2.1",
     "prettier": "^3.2.5",
     "stylelint": "^16.4.0"
-  }
+  },
+  "browserslist": [
+    "last 5 versions"
+  ]
 }
